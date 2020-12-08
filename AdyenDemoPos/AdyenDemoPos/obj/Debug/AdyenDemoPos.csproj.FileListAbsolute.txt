@@ -1,0 +1,15 @@
+G:\Github Repos\Adyen_Demo_Pos\AdyenDemoPos\AdyenDemoPos\bin\Debug\AdyenDemoPos.exe.config
+G:\Github Repos\Adyen_Demo_Pos\AdyenDemoPos\AdyenDemoPos\bin\Debug\AdyenDemoPos.exe
+G:\Github Repos\Adyen_Demo_Pos\AdyenDemoPos\AdyenDemoPos\bin\Debug\AdyenDemoPos.pdb
+G:\Github Repos\Adyen_Demo_Pos\AdyenDemoPos\AdyenDemoPos\bin\Debug\Adyen.dll
+G:\Github Repos\Adyen_Demo_Pos\AdyenDemoPos\AdyenDemoPos\bin\Debug\Newtonsoft.Json.dll
+G:\Github Repos\Adyen_Demo_Pos\AdyenDemoPos\AdyenDemoPos\bin\Debug\System.ComponentModel.Annotations.dll
+G:\Github Repos\Adyen_Demo_Pos\AdyenDemoPos\AdyenDemoPos\bin\Debug\Newtonsoft.Json.xml
+G:\Github Repos\Adyen_Demo_Pos\AdyenDemoPos\AdyenDemoPos\obj\Debug\AdyenDemoPos.csprojAssemblyReference.cache
+G:\Github Repos\Adyen_Demo_Pos\AdyenDemoPos\AdyenDemoPos\obj\Debug\AdyenDemoPos.Form1.resources
+G:\Github Repos\Adyen_Demo_Pos\AdyenDemoPos\AdyenDemoPos\obj\Debug\AdyenDemoPos.Properties.Resources.resources
+G:\Github Repos\Adyen_Demo_Pos\AdyenDemoPos\AdyenDemoPos\obj\Debug\AdyenDemoPos.csproj.GenerateResource.cache
+G:\Github Repos\Adyen_Demo_Pos\AdyenDemoPos\AdyenDemoPos\obj\Debug\AdyenDemoPos.csproj.CoreCompileInputs.cache
+G:\Github Repos\Adyen_Demo_Pos\AdyenDemoPos\AdyenDemoPos\obj\Debug\AdyenDemoPos.csproj.CopyComplete
+G:\Github Repos\Adyen_Demo_Pos\AdyenDemoPos\AdyenDemoPos\obj\Debug\AdyenDemoPos.exe
+G:\Github Repos\Adyen_Demo_Pos\AdyenDemoPos\AdyenDemoPos\obj\Debug\AdyenDemoPos.pdb
