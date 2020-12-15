@@ -42,7 +42,7 @@
             this.button1.TabIndex = 0;
             this.button1.Text = "Tender";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.Tender_Click);
+            this.button1.Click += new System.EventHandler(this.Tender_ClickAsync);
             // 
             // Query
             // 
@@ -52,7 +52,7 @@
             this.Query.TabIndex = 1;
             this.Query.Text = "Query";
             this.Query.UseVisualStyleBackColor = true;
-            this.Query.Click += new System.EventHandler(this.Query_Click);
+            this.Query.Click += new System.EventHandler(this.Query_ClickAsync);
             // 
             // Cancel
             // 
@@ -62,7 +62,7 @@
             this.Cancel.TabIndex = 2;
             this.Cancel.Text = "Cancel";
             this.Cancel.UseVisualStyleBackColor = true;
-            this.Cancel.Click += new System.EventHandler(this.Cancel_Click);
+            this.Cancel.Click += new System.EventHandler(this.Cancel_ClickAsync);
             // 
             // Receipt
             // 
